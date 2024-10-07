@@ -2,3 +2,6 @@ myenv/
 .vscode/
 __pycache__/
 *.rar
+*.jpg
+*.png
+backend/dataset/
